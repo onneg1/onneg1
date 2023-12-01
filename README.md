@@ -10,7 +10,7 @@
 
 </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onneg1&bg_color=291b3e&color=cd7dba&line=9374c0&point=f1e9e9&area=true&hide_border=true&width=700&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onneg1&bg_color=3c8532&color=000000&line=075606&point=413e3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href = "mailto:matheus.teixeira777@hotmail.com"> <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"></a>
