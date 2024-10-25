@@ -19,7 +19,7 @@
 
 ### Main skills:
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)&nbsp;
-![JS](https://img.shields.io/badge/blue?logo=javascript)&nbsp;
+![JS](https://img.shields.io/badge/JS-blue?logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
 
