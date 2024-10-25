@@ -19,7 +19,7 @@
 
 ### Main skills:
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
-![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
+![JS](https://img.shields.io/badge/javascript-blue?logo=javascript)&nbsp;
 
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
