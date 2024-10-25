@@ -19,10 +19,13 @@
 
 ### Main skills:
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
-![JS](https://img.shields.io/badge/javascript-blue?logo=javascript)&nbsp;
+![JS](https://img.shields.io/badge/blue?logo=javascript)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
 
 ### Studying in this moment:
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
-![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
+![JS](https://img.shields.io/badge/JavaScript-blue?logo=javascript)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32a850&height=120&section=footer"/>
